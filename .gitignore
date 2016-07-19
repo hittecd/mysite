@@ -38,3 +38,6 @@ jspm_packages
 
 # Idea files
 .idea
+
+# mongodb data
+data
